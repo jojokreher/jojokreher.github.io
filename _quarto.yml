@@ -22,7 +22,7 @@ website:
 #     contents:
 #       - text: "About"
 #         file: index.qmd
-#       - text: PSD
+#       - text: "Aktuell"
 #         file: psd.qmd
 #       - file: vision.qmd
 #       - file: zukunft.qmd
