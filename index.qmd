@@ -4,7 +4,7 @@ about:
     template: broadside # other templates: https://quarto.org/docs/websites/website-about.html
     links:
         - text: "Email"
-          url: mailto:krej@zhaw.ch
+          url: mailto:johanna_kreher@arcor.de
         - icon: instagram 
           text: Instagram
           url: https://www.instagram.com/johannamarie.k/ 
