@@ -1,5 +1,5 @@
 ---
-title: "Johanna-Marie Kreher"
+title: "Johanna Marie Kreher"
 about:
     template: broadside # other templates: https://quarto.org/docs/websites/website-about.html
     links:

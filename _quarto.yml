@@ -6,7 +6,7 @@ publish:
   method: gh-pages
 
 website:
-  title: "Johanna-Marie Kreher"
+  title: "Johanna Marie Kreher"
   navbar:
     search: true
     left:
