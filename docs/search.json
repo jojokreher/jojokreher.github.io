@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "zukunft.html",
+    "href": "zukunft.html",
+    "title": "Zukunft",
+    "section": "",
+    "text": "Leben bedeutet Veränderung. So möchte ich auch in Zukunft gern mit Weiterbildungen im Medizin-, Ernährungs- und Sportbereich mein fundiertes Fachwissen ausbauen. Ich bin schon jetzt gespannt auf alle Herausforderungen, Lehrer und Orte, die kommen werden.\nNoch spannender ist für mich jedoch das Ziel, Menschen damit eine umfassende, persönliche, individuelle Hilfestellung geben und vielleicht sogar das ein oder andere «Sein» schöner gestalten zu können."
+  },
+  {
+    "objectID": "psd.html",
+    "href": "psd.html",
+    "title": "PSD",
+    "section": "",
+    "text": "Zurzeit absolviere ich die Ausbildung zur Fachärztin für Psychiatrie und Psychotherapie am Psychiatrischen Universitätsklinikum Zürich, Schweiz.\nDurch die gleichzeitige Arbeit an meinem PhD-Projekt erlange ich im Rahmen eines gerontopsychiatrischen Themas zudem Einblicke in Bereiche der Kommunikations- und Medienwissenschaften sowie Psychologie und Verhaltensforschung."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Johanna-Marie Kreher",
+    "section": "",
+    "text": "Ich habe\n\nMedizin (Dr.med.univ.) an der Medizinischen Universität Wien und\nErnährungswissenschaften (M.Sc., Spezialisierung: Molekulare Ernährung) an der Universität Wien studiert.\n\nWeiterhin habe ich die Basis-Ausbildung Hypnose (TherMedius™) abgeschlossen.\nIch hatte das Glück, in einer Familie aufzuwachsen, bei der psychisches Wohlbefinden hohe Priorität hatte. Somit wurde mir schon früh mit auf dem Weg gegeben, wie wichtig die aktive Wahrnehmung und Wertschätzung von Genuss und Freude ist, genauso wie die aktive Auseinandersetzung und Akzeptanz von Leid und Trauer. Daher begann ich mich schon als Kind für Medizin, v. a. die menschliche Psyche, und Ernährung zu interessieren.\nViele Rundreisen, die unzählige Gespräche mit unterschiedlichsten Menschen und ihren Ansichten und Lebensweisen, Einblicke in die kulturelle Vielfalt unserer Welt, sowie persönliche Grenzsetzung, aber auch Entwicklung und Zielsetzung nach sich zogen, hatten ebenso einen Einfluss auf die Gestaltung meiner heutigen Herangehensweise an das Leben. Weiterhin geprägt hat mich vor allem mein Auslandsaufenthalt in Vancouver, Kanada: Ich war 6 Monate lang im General Hospital Vancouver klinisch tätig, und habe mich gleichzeitig an der Capilano University bezüglich der kulturellen Nahrungsgewohnheiten sowie den natürlichen Heilmethoden der First Nations (indigene Völker Kanadas) weitergebildet. Darüber hinaus habe ich ein Praktikum beim West End Seniors’ Network gemacht, wo ich erstmals mein Wissen bezüglich Ernährung bzw. Ernährungsverhalten im Alter mit älteren Menschen teilen und ihre Ernährung analysieren und verbessern konnte."
+  },
+  {
+    "objectID": "anleitung.html",
+    "href": "anleitung.html",
+    "title": "Anleitung",
+    "section": "",
+    "text": "Anleitung\n\nText verändern\nIn Terminal (tab neben Console): quarto render, oder Strg + Shift + K\nÄnderungen überprüfen\nIn Terminal\n\ngit add -A\ngit commit -m “Beschreibung”\ngit push\n\n\n\n\nDocs:\n\nquarto websites: https://quarto.org/docs/websites/\nwebsite options: https://quarto.org/docs/reference/projects/websites.html\nabout page formats: https://quarto.org/docs/websites/website-about.html"
+  },
+  {
+    "objectID": "miteinander.html",
+    "href": "miteinander.html",
+    "title": "Miteinander",
+    "section": "",
+    "text": "Wenn Sie Sich angesprochen fühlen oder an einer Zusammenarbeit bzw. einem Austausch interessiert sind, können Sie mich jederzeit kontaktieren:\nE-Mail: johanna_kreher@arcor.de\nInstagram: johannamarie.k\nTelefonnummer: +41 78 212 2024"
+  },
+  {
+    "objectID": "vision.html",
+    "href": "vision.html",
+    "title": "Vision",
+    "section": "",
+    "text": "Ich bin davon überzeugt, dass sich die drei Komponenten\n\nPsyche,\nErnährung und\nBewegung\n\ngegenseitig beeinflussen, und wiederum gemeinsam einen grossen Einfluss auf unser Wohlergehen, unsere Selbstakzeptanz, unsere Motivation und damit auf unser gesamtes Verhalten und Leben haben.\nDurch einen ganzheitlichen Therapieansatz, ohne direkten Fokus aber genauso wenig Ausschluss der Schulmedizin, möchte ich dabei helfen, die Balance zwischen diesen Komponenten (wieder) zu finden."
+  }
+]

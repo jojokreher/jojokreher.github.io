@@ -1,0 +1,34 @@
+---
+title: "Johanna-Marie Kreher"
+about:
+    template: broadside # other templates: https://quarto.org/docs/websites/website-about.html
+    links:
+        - text: "Email"
+          url: mailto:krej@zhaw.ch
+        - icon: instagram 
+          text: Instagram
+          url: https://www.instagram.com/johannamarie.k/ 
+image: images/jojo.jpg
+comments: false
+---
+
+Ich habe 
+
+* **Medizin** (Dr.med.univ.) an der Medizinischen Universität Wien und 
+* **Ernährungswissenschaften** (M.Sc., Spezialisierung: Molekulare Ernährung) an der Universität Wien 
+studiert.
+
+Weiterhin habe ich die **Basis-Ausbildung Hypnose** (TherMedius&#8482;) abgeschlossen.
+
+Ich hatte das Glück, in einer Familie aufzuwachsen, bei der psychisches Wohlbefinden hohe Priorität hatte.
+Somit wurde mir schon früh mit auf dem Weg gegeben, wie wichtig die aktive Wahrnehmung und Wertschätzung von Genuss und Freude ist, genauso wie die aktive Auseinandersetzung und Akzeptanz von Leid und Trauer.
+Daher begann ich mich schon als Kind für Medizin, v. a. die menschliche Psyche, und Ernährung zu interessieren.
+
+Viele Rundreisen, die unzählige Gespräche mit unterschiedlichsten Menschen und ihren Ansichten und Lebensweisen, Einblicke in die kulturelle Vielfalt unserer Welt, sowie persönliche Grenzsetzung, aber auch Entwicklung und Zielsetzung nach sich zogen, hatten ebenso einen Einfluss auf die Gestaltung meiner heutigen Herangehensweise an das Leben.
+Weiterhin geprägt hat mich vor allem mein Auslandsaufenthalt in Vancouver, Kanada: 
+Ich war 6 Monate lang im General Hospital Vancouver klinisch tätig, und habe mich gleichzeitig an der Capilano University bezüglich der kulturellen Nahrungsgewohnheiten sowie den natürlichen Heilmethoden der First Nations (indigene Völker Kanadas) weitergebildet.
+Darüber hinaus habe ich ein Praktikum beim West End Seniors' Network gemacht, wo ich erstmals mein Wissen bezüglich Ernährung bzw. Ernährungsverhalten im Alter mit älteren Menschen teilen und ihre Ernährung analysieren und verbessern konnte.
+
+
+
+
